@@ -1,8 +1,6 @@
 # Jamil Sinno's website
 A react tictactoe tutorial
 
-![Landing page picture of Jamil's website. Jamil's photo holding an orange cat to the right.](/images/Personal.png)
-
 ## How It's Made:
 
 **Tech used:** HTML, CSS, JavaScript, React
